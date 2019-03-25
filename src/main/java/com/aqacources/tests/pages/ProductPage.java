@@ -4,7 +4,6 @@ import com.aqacources.tests.base.BaseTest;
 import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.Select;
 
@@ -36,14 +35,8 @@ public class ProductPage extends AbstractPage {
     @FindBy(xpath = "//span[@title='Continue shopping']")
     private WebElement buttonContinueShopping;
 
-    @FindBy(xpath = "//a[@title='View my shopping cart']")
-    private WebElement shoppingCart;
-
     @FindBy(xpath = "//div[@class='product-atributes']/a[@title='Printed Dress']")
     private WebElement productAttributes;
-
-    @FindBy(xpath = "//a[@class='ajax_cart_block_remove_link']")
-    private WebElement removeProduct;
 
     @FindBy(xpath = "//span[@class='ajax_cart_no_product']")
     private WebElement emptyShoppingCart;
@@ -113,19 +106,6 @@ public class ProductPage extends AbstractPage {
     }
 
     /**
-     * Move to Shopping Cart
-     */
-    public void moveToShoppingCart() {
-        testClass.waitTillElementIsVisible(shoppingCart);
-
-        Actions actions = new Actions(testClass.getDriver());
-
-        // Move to element
-        actions.moveToElement(shoppingCart).build().perform();
-
-    }
-
-    /**
      * Check Product Attributes
      *
      * @param color
@@ -138,15 +118,6 @@ public class ProductPage extends AbstractPage {
         String expectedAttributes = color + ", " + size;
 
         Assert.assertEquals(productAtributes, expectedAttributes);
-    }
-
-    /**
-     * Delete Product From Shopping Cart
-     */
-    public void deleteProductFromShoppingCart() {
-        testClass.waitTillElementIsVisible(removeProduct);
-
-        removeProduct.click();
     }
 
     /**

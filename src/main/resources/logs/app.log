@@ -949,3 +949,683 @@ Session ID: 778ef7aae599836b77b21de082a7dea9
 2019-51-22 08:51:20.509 [main] INFO   - Closed Window
 2019-51-22 08:51:20.519 [main] INFO   - Switched To Parent Tab
 2019-51-22 08:51:20.528 [main] INFO   - Got cookies
+2019-58-22 20:58:07.979 [main] INFO   - Opened site
+2019-58-22 20:58:11.121 [main] INFO   - Clicked Sgn In
+2019-58-22 20:58:15.188 [main] INFO   - Signed In on the site
+2019-58-22 20:58:15.414 [main] INFO   - Moved to menu Dresses
+2019-58-22 20:58:18.615 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-58-22 20:58:21.191 [main] INFO   - Opened and switched to new window
+2019-58-22 20:58:21.426 [main] INFO   - Selected Color
+2019-58-22 20:58:21.849 [main] INFO   - Selected Size
+2019-58-22 20:58:22.101 [main] INFO   - Clicked to button Add to Cart
+2019-58-22 20:58:23.659 [main] INFO   - Clicked to button Continue Shopping
+2019-58-22 20:58:23.763 [main] INFO   - Moved to Shopping Cart
+2019-58-22 20:58:24.492 [main] INFO   - Checked Product Attributes
+2019-58-22 20:58:24.748 [main] INFO   - Deleted Product From Shopping Cart
+2019-58-22 20:58:26.078 [main] INFO   - Checked Empty Shopping Cart
+2019-58-22 20:58:26.125 [main] INFO   - Closed Window
+2019-02-22 21:02:03.668 [main] INFO   - Opened site
+2019-02-22 21:02:05.906 [main] INFO   - Clicked Sgn In
+2019-02-22 21:02:08.833 [main] INFO   - Signed In on the site
+2019-02-22 21:02:08.937 [main] INFO   - Moved to menu Dresses
+2019-02-22 21:02:11.917 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-02-22 21:02:14.585 [main] INFO   - Opened and switched to new window
+2019-02-22 21:02:14.790 [main] INFO   - Selected Color
+2019-02-22 21:02:15.365 [main] INFO   - Selected Size
+2019-02-22 21:02:15.643 [main] INFO   - Clicked to button Add to Cart
+2019-02-22 21:02:17.020 [main] INFO   - Clicked to button Continue Shopping
+2019-02-22 21:02:17.188 [main] INFO   - Moved to Shopping Cart
+2019-02-22 21:02:18.057 [main] INFO   - Checked Product Attributes
+2019-02-22 21:02:18.410 [main] INFO   - Deleted Product From Shopping Cart
+2019-02-22 21:02:19.781 [main] INFO   - Checked Empty Shopping Cart
+2019-02-22 21:02:19.857 [main] INFO   - Closed Window
+2019-03-22 21:03:26.022 [main] INFO   - Opened site
+2019-03-22 21:03:28.190 [main] INFO   - Clicked Sgn In
+2019-03-22 21:03:30.894 [main] INFO   - Signed In on the site
+2019-03-22 21:03:30.998 [main] INFO   - Moved to menu Dresses
+2019-03-22 21:03:34.152 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-03-22 21:03:36.588 [main] INFO   - Opened and switched to new window
+2019-03-22 21:03:36.782 [main] INFO   - Selected Color
+2019-03-22 21:03:37.385 [main] INFO   - Selected Size
+2019-03-22 21:03:37.560 [main] INFO   - Clicked to button Add to Cart
+2019-03-22 21:03:38.928 [main] INFO   - Clicked to button Continue Shopping
+2019-03-22 21:03:39.034 [main] INFO   - Moved to Shopping Cart
+2019-03-22 21:03:39.729 [main] INFO   - Checked Product Attributes
+2019-03-22 21:03:39.924 [main] INFO   - Deleted Product From Shopping Cart
+2019-03-22 21:03:41.268 [main] INFO   - Checked Empty Shopping Cart
+2019-03-22 21:03:41.355 [main] INFO   - Closed Window
+2019-06-22 21:06:31.607 [main] INFO   - Opened site
+2019-06-22 21:06:34.412 [main] INFO   - Clicked Sgn In
+2019-06-22 21:06:37.282 [main] INFO   - Signed In on the site
+2019-06-22 21:06:37.465 [main] INFO   - Moved to menu Dresses
+2019-06-22 21:06:40.641 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-06-22 21:06:43.409 [main] INFO   - Opened and switched to new window
+2019-06-22 21:06:43.613 [main] INFO   - Selected Color
+2019-06-22 21:06:44.265 [main] INFO   - Selected Size
+2019-06-22 21:06:44.472 [main] INFO   - Clicked to button Add to Cart
+2019-06-22 21:06:45.905 [main] INFO   - Clicked to button Continue Shopping
+2019-06-22 21:06:46.086 [main] INFO   - Moved to Shopping Cart
+2019-06-22 21:06:46.945 [main] INFO   - Checked Product Attributes
+2019-06-22 21:06:47.212 [main] INFO   - Deleted Product From Shopping Cart
+2019-06-22 21:06:48.476 [main] INFO   - Checked Empty Shopping Cart
+2019-06-22 21:06:48.545 [main] INFO   - Closed Window
+2019-07-22 21:07:22.616 [main] INFO   - Opened site
+2019-07-22 21:07:25.062 [main] INFO   - Clicked Sgn In
+2019-07-22 21:07:27.686 [main] INFO   - Signed In on the site
+2019-07-22 21:07:27.886 [main] INFO   - Moved to menu Dresses
+2019-07-22 21:07:30.691 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-07-22 21:07:32.855 [main] INFO   - Opened and switched to new window
+2019-07-22 21:07:33.072 [main] INFO   - Selected Color
+2019-07-22 21:07:33.482 [main] INFO   - Selected Size
+2019-07-22 21:07:33.670 [main] INFO   - Clicked to button Add to Cart
+2019-07-22 21:07:34.968 [main] INFO   - Clicked to button Continue Shopping
+2019-07-22 21:07:35.082 [main] INFO   - Moved to Shopping Cart
+2019-07-22 21:07:35.892 [main] INFO   - Checked Product Attributes
+2019-07-22 21:07:36.234 [main] INFO   - Deleted Product From Shopping Cart
+2019-07-22 21:07:37.488 [main] INFO   - Checked Empty Shopping Cart
+2019-07-22 21:07:37.546 [main] INFO   - Closed Window
+2019-09-22 21:09:17.053 [main] INFO   - Opened site
+2019-09-22 21:09:20.436 [main] INFO   - Clicked Sgn In
+2019-09-22 21:09:23.399 [main] INFO   - Signed In on the site
+2019-09-22 21:09:23.549 [main] INFO   - Moved to menu Dresses
+2019-09-22 21:09:27.293 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-09-22 21:09:31.705 [main] INFO   - Opened and switched to new window
+2019-09-22 21:09:31.935 [main] INFO   - Selected Color
+2019-09-22 21:09:32.538 [main] INFO   - Selected Size
+2019-09-22 21:09:32.765 [main] INFO   - Clicked to button Add to Cart
+2019-09-22 21:09:34.836 [main] INFO   - Clicked to button Continue Shopping
+2019-09-22 21:09:34.967 [main] INFO   - Moved to Shopping Cart
+2019-09-22 21:09:35.722 [main] INFO   - Checked Product Attributes
+2019-09-22 21:09:35.949 [main] INFO   - Deleted Product From Shopping Cart
+2019-09-22 21:09:37.374 [main] INFO   - Checked Empty Shopping Cart
+2019-09-22 21:09:37.420 [main] INFO   - Closed Window
+2019-11-22 21:11:07.214 [main] INFO   - Opened site
+2019-11-22 21:11:09.393 [main] INFO   - Clicked Sgn In
+2019-11-22 21:11:12.235 [main] INFO   - Signed In on the site
+2019-11-22 21:11:12.364 [main] INFO   - Moved to menu Dresses
+2019-11-22 21:11:17.207 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-11-22 21:11:19.933 [main] INFO   - Opened and switched to new window
+2019-11-22 21:11:20.155 [main] INFO   - Selected Color
+2019-11-22 21:11:20.773 [main] INFO   - Selected Size
+2019-11-22 21:11:21.062 [main] INFO   - Clicked to button Add to Cart
+2019-11-22 21:11:22.456 [main] INFO   - Clicked to button Continue Shopping
+2019-11-22 21:11:22.571 [main] INFO   - Moved to Shopping Cart
+2019-11-22 21:11:23.251 [main] INFO   - Checked Product Attributes
+2019-11-22 21:11:23.565 [main] INFO   - Deleted Product From Shopping Cart
+2019-11-22 21:11:25.466 [main] INFO   - Checked Empty Shopping Cart
+2019-11-22 21:11:25.513 [main] INFO   - Closed Window
+2019-11-22 21:11:25.514 [main] INFO   - Switched To Parent Tab
+2019-14-22 21:14:30.881 [main] INFO   - Opened site
+2019-14-22 21:14:34.502 [main] INFO   - Clicked Sgn In
+2019-14-22 21:14:37.675 [main] INFO   - Signed In on the site
+2019-14-22 21:14:37.785 [main] INFO   - Moved to menu Dresses
+2019-14-22 21:14:40.936 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-14-22 21:14:43.751 [main] INFO   - Opened and switched to new window
+2019-14-22 21:14:43.978 [main] INFO   - Selected Color
+2019-14-22 21:14:44.481 [main] INFO   - Selected Size
+2019-14-22 21:14:44.752 [main] INFO   - Clicked to button Add to Cart
+2019-14-22 21:14:46.208 [main] INFO   - Clicked to button Continue Shopping
+2019-14-22 21:14:46.340 [main] INFO   - Moved to Shopping Cart
+2019-14-22 21:14:47.037 [main] INFO   - Checked Product Attributes
+2019-14-22 21:14:47.252 [main] INFO   - Deleted Product From Shopping Cart
+2019-14-22 21:14:48.520 [main] INFO   - Checked Empty Shopping Cart
+2019-14-22 21:14:48.590 [main] INFO   - Closed Window
+2019-14-22 21:14:48.590 [main] INFO   - Switched To Parent Tab
+2019-16-22 21:16:43.562 [main] INFO   - Opened site
+2019-16-22 21:16:46.398 [main] INFO   - Clicked Sgn In
+2019-16-22 21:16:49.339 [main] INFO   - Signed In on the site
+2019-16-22 21:16:49.508 [main] INFO   - Moved to menu Dresses
+2019-16-22 21:16:52.789 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-16-22 21:16:55.666 [main] INFO   - Opened and switched to new window
+2019-16-22 21:16:55.941 [main] INFO   - Selected Color
+2019-16-22 21:16:56.512 [main] INFO   - Selected Size
+2019-16-22 21:16:56.788 [main] INFO   - Clicked to button Add to Cart
+2019-16-22 21:16:58.211 [main] INFO   - Clicked to button Continue Shopping
+2019-16-22 21:16:58.315 [main] INFO   - Moved to Shopping Cart
+2019-16-22 21:16:59.003 [main] INFO   - Checked Product Attributes
+2019-16-22 21:16:59.188 [main] INFO   - Deleted Product From Shopping Cart
+2019-17-22 21:17:00.430 [main] INFO   - Checked Empty Shopping Cart
+2019-17-22 21:17:00.496 [main] INFO   - Closed Window
+2019-17-22 21:17:00.497 [main] INFO   - Switched To Parent Tab
+2019-18-22 21:18:09.295 [main] INFO   - Opened site
+2019-18-22 21:18:12.223 [main] INFO   - Clicked Sgn In
+2019-18-22 21:18:15.179 [main] INFO   - Signed In on the site
+2019-18-22 21:18:15.282 [main] INFO   - Moved to menu Dresses
+2019-18-22 21:18:18.241 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-18-22 21:18:20.641 [main] INFO   - Opened and switched to new window
+2019-18-22 21:18:20.862 [main] INFO   - Selected Color
+2019-18-22 21:18:21.536 [main] INFO   - Selected Size
+2019-18-22 21:18:21.776 [main] INFO   - Clicked to button Add to Cart
+2019-18-22 21:18:23.128 [main] INFO   - Clicked to button Continue Shopping
+2019-18-22 21:18:23.234 [main] INFO   - Moved to Shopping Cart
+2019-18-22 21:18:23.983 [main] INFO   - Checked Product Attributes
+2019-18-22 21:18:24.175 [main] INFO   - Deleted Product From Shopping Cart
+2019-18-22 21:18:25.468 [main] INFO   - Checked Empty Shopping Cart
+2019-18-22 21:18:25.531 [main] INFO   - Closed Window
+2019-18-22 21:18:25.532 [main] INFO   - Switched To Parent Tab
+2019-35-22 21:35:38.291 [main] INFO   - Opened site
+2019-35-22 21:35:40.705 [main] INFO   - Clicked Sgn In
+2019-35-22 21:35:44.137 [main] INFO   - Signed In on the site
+2019-35-22 21:35:44.354 [main] INFO   - Moved to menu Dresses
+2019-35-22 21:35:47.462 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-35-22 21:35:47.726 [main] INFO   - Opened and switched to new window
+2019-35-22 21:35:50.173 [main] INFO   - Switched to New Window
+2019-35-22 21:35:50.381 [main] INFO   - Selected Color
+2019-35-22 21:35:50.996 [main] INFO   - Selected Size
+2019-35-22 21:35:51.286 [main] INFO   - Clicked to button Add to Cart
+2019-35-22 21:35:52.610 [main] INFO   - Clicked to button Continue Shopping
+2019-35-22 21:35:52.765 [main] INFO   - Moved to Shopping Cart
+2019-35-22 21:35:53.487 [main] INFO   - Checked Product Attributes
+2019-35-22 21:35:53.857 [main] INFO   - Deleted Product From Shopping Cart
+2019-35-22 21:35:55.270 [main] INFO   - Checked Empty Shopping Cart
+2019-35-22 21:35:55.339 [main] INFO   - Closed Window
+2019-35-22 21:35:55.339 [main] INFO   - Switched To Parent Tab
+2019-37-22 21:37:12.283 [main] INFO   - Opened site
+2019-37-22 21:37:14.721 [main] INFO   - Clicked Sgn In
+2019-37-22 21:37:17.102 [main] INFO   - Signed In on the site
+2019-37-22 21:37:17.308 [main] INFO   - Moved to menu Dresses
+2019-37-22 21:37:20.609 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-37-22 21:37:20.857 [main] INFO   - Opened and switched to new window
+2019-37-22 21:37:23.141 [main] INFO   - Switched to New Window
+2019-37-22 21:37:23.364 [main] INFO   - Selected Color
+2019-37-22 21:37:24.042 [main] INFO   - Selected Size
+2019-37-22 21:37:24.307 [main] INFO   - Clicked to button Add to Cart
+2019-37-22 21:37:25.647 [main] INFO   - Clicked to button Continue Shopping
+2019-37-22 21:37:25.752 [main] INFO   - Moved to Shopping Cart
+2019-37-22 21:37:26.433 [main] INFO   - Checked Product Attributes
+2019-37-22 21:37:26.620 [main] INFO   - Deleted Product From Shopping Cart
+2019-37-22 21:37:27.984 [main] INFO   - Checked Empty Shopping Cart
+2019-37-22 21:37:28.049 [main] INFO   - Closed Window
+2019-39-22 21:39:24.137 [main] INFO   - Opened site
+2019-39-22 21:39:26.235 [main] INFO   - Clicked Sgn In
+2019-39-22 21:39:28.928 [main] INFO   - Signed In on the site
+2019-39-22 21:39:29.132 [main] INFO   - Moved to menu Dresses
+2019-39-22 21:39:32.280 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-39-22 21:39:32.499 [main] INFO   - Opened and switched to new window
+2019-39-22 21:39:32.550 [main] INFO   - Switched to New Window
+2019-39-22 21:39:34.808 [main] INFO   - Selected Color
+2019-39-22 21:39:35.361 [main] INFO   - Selected Size
+2019-39-22 21:39:35.576 [main] INFO   - Clicked to button Add to Cart
+2019-39-22 21:39:36.936 [main] INFO   - Clicked to button Continue Shopping
+2019-39-22 21:39:37.060 [main] INFO   - Moved to Shopping Cart
+2019-39-22 21:39:37.794 [main] INFO   - Checked Product Attributes
+2019-39-22 21:39:38.102 [main] INFO   - Deleted Product From Shopping Cart
+2019-39-22 21:39:39.984 [main] INFO   - Checked Empty Shopping Cart
+2019-39-22 21:39:40.031 [main] INFO   - Closed Window
+2019-41-22 21:41:26.504 [main] INFO   - Opened site
+2019-41-22 21:41:29.194 [main] INFO   - Clicked Sgn In
+2019-41-22 21:41:31.859 [main] INFO   - Signed In on the site
+2019-41-22 21:41:32.073 [main] INFO   - Moved to menu Dresses
+2019-41-22 21:41:35.137 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-41-22 21:41:35.424 [main] INFO   - Opened and switched to new window
+2019-41-22 21:41:35.475 [main] INFO   - Switched to New Window
+2019-41-22 21:41:38.205 [main] INFO   - Selected Color
+2019-41-22 21:41:38.681 [main] INFO   - Selected Size
+2019-41-22 21:41:38.906 [main] INFO   - Clicked to button Add to Cart
+2019-41-22 21:41:40.183 [main] INFO   - Clicked to button Continue Shopping
+2019-41-22 21:41:40.302 [main] INFO   - Moved to Shopping Cart
+2019-41-22 21:41:40.972 [main] INFO   - Checked Product Attributes
+2019-41-22 21:41:41.101 [main] INFO   - Deleted Product From Shopping Cart
+2019-41-22 21:41:42.372 [main] INFO   - Checked Empty Shopping Cart
+2019-41-22 21:41:42.442 [main] INFO   - Closed Window
+2019-45-22 21:45:19.320 [main] INFO   - Opened site
+2019-45-22 21:45:22.013 [main] INFO   - Clicked Sgn In
+2019-45-22 21:45:24.748 [main] INFO   - Signed In on the site
+2019-45-22 21:45:24.950 [main] INFO   - Moved to menu Dresses
+2019-45-22 21:45:28.790 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-45-22 21:45:29.257 [main] INFO   - Opened and switched to new window
+2019-45-22 21:45:29.303 [main] INFO   - Switched to New Window
+2019-45-22 21:45:31.475 [main] INFO   - Selected Color
+2019-45-22 21:45:32.115 [main] INFO   - Selected Size
+2019-45-22 21:45:32.375 [main] INFO   - Clicked to button Add to Cart
+2019-45-22 21:45:33.818 [main] INFO   - Clicked to button Continue Shopping
+2019-45-22 21:45:33.935 [main] INFO   - Moved to Shopping Cart
+2019-45-22 21:45:34.573 [main] INFO   - Checked Product Attributes
+2019-45-22 21:45:34.725 [main] INFO   - Deleted Product From Shopping Cart
+2019-45-22 21:45:36.002 [main] INFO   - Checked Empty Shopping Cart
+2019-45-22 21:45:36.089 [main] INFO   - Closed Window
+2019-47-22 21:47:20.784 [main] INFO   - Opened site
+2019-47-22 21:47:23.484 [main] INFO   - Clicked Sgn In
+2019-47-22 21:47:26.018 [main] INFO   - Signed In on the site
+2019-47-22 21:47:26.212 [main] INFO   - Moved to menu Dresses
+2019-47-22 21:47:32.343 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-47-22 21:47:32.750 [main] INFO   - Opened and switched to new window
+2019-47-22 21:47:32.808 [main] INFO   - Switched to New Window
+2019-47-22 21:47:35.766 [main] INFO   - Selected Color
+2019-47-22 21:47:36.397 [main] INFO   - Selected Size
+2019-47-22 21:47:36.646 [main] INFO   - Clicked to button Add to Cart
+2019-47-22 21:47:38.048 [main] INFO   - Clicked to button Continue Shopping
+2019-47-22 21:47:38.172 [main] INFO   - Moved to Shopping Cart
+2019-47-22 21:47:38.982 [main] INFO   - Checked Product Attributes
+2019-47-22 21:47:39.205 [main] INFO   - Deleted Product From Shopping Cart
+2019-47-22 21:47:40.486 [main] INFO   - Checked Empty Shopping Cart
+2019-47-22 21:47:40.543 [main] INFO   - Closed Window
+2019-50-22 21:50:54.989 [main] INFO   - Opened site
+2019-50-22 21:50:57.894 [main] INFO   - Clicked Sgn In
+2019-51-22 21:51:00.980 [main] INFO   - Signed In on the site
+2019-51-22 21:51:01.209 [main] INFO   - Moved to menu Dresses
+2019-51-22 21:51:04.702 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-51-22 21:51:04.965 [main] INFO   - Opened and switched to new window
+2019-51-22 21:51:05.013 [main] INFO   - Switched to New Window
+2019-51-22 21:51:07.121 [main] INFO   - Selected Color
+2019-51-22 21:51:07.608 [main] INFO   - Selected Size
+2019-51-22 21:51:07.898 [main] INFO   - Clicked to button Add to Cart
+2019-51-22 21:51:09.975 [main] INFO   - Clicked to button Continue Shopping
+2019-51-22 21:51:10.113 [main] INFO   - Moved to Shopping Cart
+2019-51-22 21:51:10.867 [main] INFO   - Checked Product Attributes
+2019-51-22 21:51:11.235 [main] INFO   - Deleted Product From Shopping Cart
+2019-51-22 21:51:12.526 [main] INFO   - Checked Empty Shopping Cart
+2019-51-22 21:51:12.572 [main] INFO   - Closed Window
+2019-52-22 21:52:06.685 [main] INFO   - Opened site
+2019-52-22 21:52:09.746 [main] INFO   - Clicked Sgn In
+2019-52-22 21:52:12.294 [main] INFO   - Signed In on the site
+2019-52-22 21:52:12.507 [main] INFO   - Moved to menu Dresses
+2019-52-22 21:52:17.720 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-52-22 21:52:17.996 [main] INFO   - Opened and switched to new window
+2019-52-22 21:52:18.044 [main] INFO   - Switched to New Window
+2019-52-22 21:52:20.495 [main] INFO   - Selected Color
+2019-52-22 21:52:21.037 [main] INFO   - Selected Size
+2019-52-22 21:52:21.274 [main] INFO   - Clicked to button Add to Cart
+2019-52-22 21:52:22.881 [main] INFO   - Clicked to button Continue Shopping
+2019-52-22 21:52:22.992 [main] INFO   - Moved to Shopping Cart
+2019-52-22 21:52:23.740 [main] INFO   - Checked Product Attributes
+2019-52-22 21:52:24.045 [main] INFO   - Deleted Product From Shopping Cart
+2019-52-22 21:52:25.335 [main] INFO   - Checked Empty Shopping Cart
+2019-52-22 21:52:25.393 [main] INFO   - Closed Window
+2019-53-22 21:53:39.273 [main] INFO   - Opened site
+2019-53-22 21:53:41.974 [main] INFO   - Clicked Sgn In
+2019-53-22 21:53:44.493 [main] INFO   - Signed In on the site
+2019-53-22 21:53:44.593 [main] INFO   - Moved to menu Dresses
+2019-53-22 21:53:47.250 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-53-22 21:53:47.488 [main] INFO   - Opened and switched to new window
+2019-53-22 21:53:47.536 [main] INFO   - Switched to New Window
+2019-53-22 21:53:49.756 [main] INFO   - Selected Color
+2019-53-22 21:53:50.186 [main] INFO   - Selected Size
+2019-53-22 21:53:50.393 [main] INFO   - Clicked to button Add to Cart
+2019-53-22 21:53:51.673 [main] INFO   - Clicked to button Continue Shopping
+2019-53-22 21:53:51.829 [main] INFO   - Moved to Shopping Cart
+2019-53-22 21:53:52.524 [main] INFO   - Checked Product Attributes
+2019-53-22 21:53:52.727 [main] INFO   - Deleted Product From Shopping Cart
+2019-53-22 21:53:54.017 [main] INFO   - Checked Empty Shopping Cart
+2019-53-22 21:53:54.085 [main] INFO   - Closed Window
+2019-54-22 21:54:43.805 [main] INFO   - Opened site
+2019-54-22 21:54:46.233 [main] INFO   - Clicked Sgn In
+2019-54-22 21:54:48.825 [main] INFO   - Signed In on the site
+2019-54-22 21:54:49.012 [main] INFO   - Moved to menu Dresses
+2019-54-22 21:54:51.837 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-54-22 21:54:52.055 [main] INFO   - Opened and switched to new window
+2019-54-22 21:54:52.099 [main] INFO   - Switched to New Window
+2019-54-22 21:54:54.243 [main] INFO   - Selected Color
+2019-54-22 21:54:54.691 [main] INFO   - Selected Size
+2019-54-22 21:54:54.874 [main] INFO   - Clicked to button Add to Cart
+2019-54-22 21:54:56.340 [main] INFO   - Clicked to button Continue Shopping
+2019-54-22 21:54:56.485 [main] INFO   - Moved to Shopping Cart
+2019-54-22 21:54:57.240 [main] INFO   - Checked Product Attributes
+2019-54-22 21:54:57.629 [main] INFO   - Deleted Product From Shopping Cart
+2019-54-22 21:54:58.902 [main] INFO   - Checked Empty Shopping Cart
+2019-54-22 21:54:58.947 [main] INFO   - Closed Window
+2019-58-22 21:58:04.396 [main] INFO   - Opened site
+2019-58-22 21:58:07.248 [main] INFO   - Clicked Sgn In
+2019-58-22 21:58:10.351 [main] INFO   - Signed In on the site
+2019-58-22 21:58:10.536 [main] INFO   - Moved to menu Dresses
+2019-58-22 21:58:14.127 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-58-22 21:58:14.390 [main] INFO   - Opened and switched to new window
+2019-58-22 21:58:14.431 [main] INFO   - Switched to New Window
+2019-58-22 21:58:16.759 [main] INFO   - Selected Color
+2019-58-22 21:58:17.382 [main] INFO   - Selected Size
+2019-58-22 21:58:17.591 [main] INFO   - Clicked to button Add to Cart
+2019-58-22 21:58:19.076 [main] INFO   - Clicked to button Continue Shopping
+2019-58-22 21:58:19.206 [main] INFO   - Moved to Shopping Cart
+2019-58-22 21:58:19.928 [main] INFO   - Checked Product Attributes
+2019-58-22 21:58:20.121 [main] INFO   - Deleted Product From Shopping Cart
+2019-58-22 21:58:21.439 [main] INFO   - Checked Empty Shopping Cart
+2019-58-22 21:58:21.518 [main] INFO   - Closed Window
+2019-03-22 22:03:36.082 [main] INFO   - Opened site
+2019-03-22 22:03:38.469 [main] INFO   - Clicked Sgn In
+2019-03-22 22:03:41.508 [main] INFO   - Signed In on the site
+2019-03-22 22:03:41.709 [main] INFO   - Moved to menu Dresses
+2019-03-22 22:03:45.820 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-03-22 22:03:46.064 [main] INFO   - Opened and switched to new window
+2019-03-22 22:03:46.106 [main] INFO   - Switched to New Window
+2019-03-22 22:03:46.775 [main] ERROR  - no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@id='color_to_pick_list']/li/a[@name='Pink']"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OFJ2VPP', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\Marina\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:34275}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 486bb8c33d1892b07078a944f609aae8
+*** Element info: {Using=xpath, value=//ul[@id='color_to_pick_list']/li/a[@name='Pink']}
+2019-05-22 22:05:05.670 [main] INFO   - Opened site
+2019-05-22 22:05:08.494 [main] INFO   - Clicked Sgn In
+2019-05-22 22:05:11.513 [main] INFO   - Signed In on the site
+2019-05-22 22:05:11.735 [main] INFO   - Moved to menu Dresses
+2019-05-22 22:05:14.691 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-05-22 22:05:14.909 [main] INFO   - Opened and switched to new window
+2019-05-22 22:05:14.942 [main] INFO   - Switched to New Window
+2019-05-22 22:05:15.470 [main] ERROR  - no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@id='color_to_pick_list']/li/a[@name='Pink']"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OFJ2VPP', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\Marina\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:34392}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: a6faadd026dba7cf460d9d04f7fb2ad6
+*** Element info: {Using=xpath, value=//ul[@id='color_to_pick_list']/li/a[@name='Pink']}
+2019-05-22 22:05:52.910 [main] INFO   - Opened site
+2019-05-22 22:05:55.428 [main] INFO   - Clicked Sgn In
+2019-05-22 22:05:58.072 [main] INFO   - Signed In on the site
+2019-05-22 22:05:58.263 [main] INFO   - Moved to menu Dresses
+2019-06-22 22:06:01.451 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-06-22 22:06:01.739 [main] INFO   - Opened and switched to new window
+2019-06-22 22:06:01.775 [main] INFO   - Switched to New Window
+2019-06-22 22:06:02.387 [main] ERROR  - no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@id='color_to_pick_list']/li/a[@name='Pink']"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OFJ2VPP', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\Marina\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:34475}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 95348f6c24567414e538de7301de80c9
+*** Element info: {Using=xpath, value=//ul[@id='color_to_pick_list']/li/a[@name='Pink']}
+2019-07-22 22:07:07.419 [main] INFO   - Opened site
+2019-07-22 22:07:10.083 [main] INFO   - Clicked Sgn In
+2019-07-22 22:07:12.921 [main] INFO   - Signed In on the site
+2019-07-22 22:07:13.121 [main] INFO   - Moved to menu Dresses
+2019-07-22 22:07:16.549 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-07-22 22:07:16.876 [main] INFO   - Opened and switched to new window
+2019-07-22 22:07:16.908 [main] INFO   - Switched to New Window
+2019-07-22 22:07:17.575 [main] ERROR  - no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@id='color_to_pick_list']/li/a[@name='Pink']"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OFJ2VPP', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\Marina\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:34574}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 63b68f5448aa55921aa7e7aba12917b4
+*** Element info: {Using=xpath, value=//ul[@id='color_to_pick_list']/li/a[@name='Pink']}
+2019-08-22 22:08:33.554 [main] INFO   - Opened site
+2019-08-22 22:08:36.382 [main] INFO   - Clicked Sgn In
+2019-08-22 22:08:39.006 [main] INFO   - Signed In on the site
+2019-08-22 22:08:39.112 [main] INFO   - Moved to menu Dresses
+2019-08-22 22:08:41.828 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-08-22 22:08:42.010 [main] INFO   - Opened and switched to new window
+2019-08-22 22:08:42.048 [main] INFO   - Switched to New Window
+2019-08-22 22:08:42.600 [main] ERROR  - no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@id='color_to_pick_list']/li/a[@name='Pink']"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OFJ2VPP', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\Marina\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:34719}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: d6ba90d69009980d1c600f637f2e37af
+*** Element info: {Using=xpath, value=//ul[@id='color_to_pick_list']/li/a[@name='Pink']}
+2019-09-22 22:09:18.820 [main] INFO   - Opened site
+2019-09-22 22:09:21.541 [main] INFO   - Clicked Sgn In
+2019-09-22 22:09:25.552 [main] INFO   - Signed In on the site
+2019-09-22 22:09:25.767 [main] INFO   - Moved to menu Dresses
+2019-09-22 22:09:28.678 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-09-22 22:09:28.951 [main] INFO   - Opened and switched to new window
+2019-09-22 22:09:29.013 [main] INFO   - Switched to New Window
+2019-09-22 22:09:31.642 [main] INFO   - Selected Color
+2019-09-22 22:09:32.221 [main] INFO   - Selected Size
+2019-09-22 22:09:32.446 [main] INFO   - Clicked to button Add to Cart
+2019-09-22 22:09:33.931 [main] INFO   - Clicked to button Continue Shopping
+2019-09-22 22:09:34.041 [main] INFO   - Moved to Shopping Cart
+2019-09-22 22:09:34.725 [main] INFO   - Checked Product Attributes
+2019-09-22 22:09:34.920 [main] INFO   - Deleted Product From Shopping Cart
+2019-09-22 22:09:36.153 [main] INFO   - Checked Empty Shopping Cart
+2019-09-22 22:09:36.200 [main] INFO   - Closed Window
+2019-11-22 22:11:16.893 [main] INFO   - Opened site
+2019-11-22 22:11:19.338 [main] INFO   - Clicked Sgn In
+2019-11-22 22:11:21.620 [main] INFO   - Signed In on the site
+2019-11-22 22:11:21.734 [main] INFO   - Moved to menu Dresses
+2019-11-22 22:11:25.124 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-11-22 22:11:25.326 [main] INFO   - Opened and switched to new window
+2019-11-22 22:11:25.374 [main] INFO   - Switched to New Window
+2019-11-22 22:11:27.798 [main] INFO   - Selected Color
+2019-11-22 22:11:28.225 [main] INFO   - Selected Size
+2019-11-22 22:11:28.427 [main] INFO   - Clicked to button Add to Cart
+2019-11-22 22:11:30.480 [main] INFO   - Clicked to button Continue Shopping
+2019-11-22 22:11:30.722 [main] INFO   - Moved to Shopping Cart
+2019-11-22 22:11:30.905 [main] INFO   - Checked Product Attributes
+2019-11-22 22:11:31.059 [main] INFO   - Deleted Product From Shopping Cart
+2019-11-22 22:11:32.398 [main] INFO   - Checked Empty Shopping Cart
+2019-11-22 22:11:32.454 [main] INFO   - Closed Window
+2019-12-22 22:12:28.395 [main] INFO   - Opened site
+2019-12-22 22:12:31.588 [main] INFO   - Clicked Sgn In
+2019-12-22 22:12:34.638 [main] INFO   - Signed In on the site
+2019-12-22 22:12:34.798 [main] INFO   - Moved to menu Dresses
+2019-12-22 22:12:37.799 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-12-22 22:12:37.963 [main] INFO   - Opened and switched to new window
+2019-12-22 22:12:38.009 [main] INFO   - Switched to New Window
+2019-12-22 22:12:40.128 [main] INFO   - Selected Color
+2019-12-22 22:12:40.566 [main] INFO   - Selected Size
+2019-12-22 22:12:40.730 [main] INFO   - Clicked to button Add to Cart
+2019-12-22 22:12:42.076 [main] INFO   - Clicked to button Continue Shopping
+2019-12-22 22:12:42.202 [main] INFO   - Moved to Shopping Cart
+2019-12-22 22:12:42.926 [main] INFO   - Checked Product Attributes
+2019-12-22 22:12:43.275 [main] INFO   - Deleted Product From Shopping Cart
+2019-12-22 22:12:44.582 [main] INFO   - Checked Empty Shopping Cart
+2019-12-22 22:12:44.628 [main] INFO   - Closed Window
+2019-15-22 22:15:59.629 [main] INFO   - Opened site
+2019-16-22 22:16:02.004 [main] INFO   - Clicked Sgn In
+2019-16-22 22:16:04.648 [main] INFO   - Signed In on the site
+2019-16-22 22:16:04.853 [main] INFO   - Moved to menu Dresses
+2019-16-22 22:16:08.399 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-16-22 22:16:08.709 [main] INFO   - Opened and switched to new window
+2019-16-22 22:16:08.846 [main] INFO   - Switched to New Window
+2019-16-22 22:16:09.599 [main] ERROR  - no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@id='color_to_pick_list']/li/a[@name='Pink']"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OFJ2VPP', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\Marina\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:35257}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: a4924c802af18e299b47d92e12977199
+*** Element info: {Using=xpath, value=//ul[@id='color_to_pick_list']/li/a[@name='Pink']}
+2019-34-22 22:34:36.563 [main] INFO   - Opened site
+2019-34-22 22:34:39.484 [main] INFO   - Clicked Sgn In
+2019-34-22 22:34:42.382 [main] INFO   - Signed In on the site
+2019-34-22 22:34:42.488 [main] INFO   - Moved to menu Dresses
+2019-34-22 22:34:45.844 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-34-22 22:34:46.133 [main] INFO   - Opened and switched to new window
+2019-34-22 22:34:46.179 [main] INFO   - Switched to New Window
+2019-34-22 22:34:49.082 [main] INFO   - Selected Color
+2019-34-22 22:34:49.692 [main] INFO   - Selected Size
+2019-34-22 22:34:49.886 [main] INFO   - Clicked to button Add to Cart
+2019-34-22 22:34:52.357 [main] INFO   - Clicked to button Continue Shopping
+2019-34-22 22:34:52.469 [main] INFO   - Moved to Shopping Cart
+2019-34-22 22:34:53.176 [main] INFO   - Checked Product Attributes
+2019-34-22 22:34:53.335 [main] INFO   - Deleted Product From Shopping Cart
+2019-34-22 22:34:54.776 [main] INFO   - Checked Empty Shopping Cart
+2019-34-22 22:34:54.856 [main] INFO   - Closed Window
+2019-21-23 00:21:32.749 [main] INFO   - Opened site
+2019-21-23 00:21:35.052 [main] INFO   - Clicked Sgn In
+2019-21-23 00:21:38.578 [main] INFO   - Signed In on the site
+2019-21-23 00:21:38.832 [main] INFO   - Moved to menu Dresses
+2019-21-23 00:21:42.262 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-21-23 00:21:42.527 [main] INFO   - Opened and switched to new window
+2019-21-23 00:21:42.573 [main] INFO   - Switched to New Window
+2019-21-23 00:21:44.989 [main] INFO   - Selected Color
+2019-21-23 00:21:45.631 [main] INFO   - Selected Size
+2019-21-23 00:21:45.877 [main] INFO   - Clicked to button Add to Cart
+2019-21-23 00:21:47.245 [main] INFO   - Clicked to button Continue Shopping
+2019-21-23 00:21:47.426 [main] INFO   - Moved to Shopping Cart
+2019-21-23 00:21:48.240 [main] INFO   - Checked Product Attributes
+2019-21-23 00:21:48.436 [main] INFO   - Deleted Product From Shopping Cart
+2019-21-23 00:21:49.690 [main] INFO   - Checked Empty Shopping Cart
+2019-21-23 00:21:49.772 [main] INFO   - Switched To Parent Tab
+2019-21-23 00:21:49.797 [main] INFO   - Got cookies
+2019-27-23 00:27:08.054 [main] INFO   - Opened site
+2019-27-23 00:27:10.415 [main] INFO   - Clicked Sgn In
+2019-27-23 00:27:13.348 [main] INFO   - Signed In on the site
+2019-27-23 00:27:13.564 [main] INFO   - Moved to menu Dresses
+2019-27-23 00:27:16.789 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-27-23 00:27:17.007 [main] INFO   - Opened and switched to new window
+2019-27-23 00:27:17.057 [main] INFO   - Switched to New Window
+2019-27-23 00:27:19.354 [main] INFO   - Selected Color
+2019-27-23 00:27:19.919 [main] INFO   - Selected Size
+2019-27-23 00:27:20.183 [main] INFO   - Clicked to button Add to Cart
+2019-27-23 00:27:21.702 [main] INFO   - Clicked to button Continue Shopping
+2019-27-23 00:27:21.916 [main] INFO   - Moved to Shopping Cart
+2019-27-23 00:27:22.029 [main] INFO   - Checked Product Attributes
+2019-27-23 00:27:22.309 [main] INFO   - Deleted Product From Shopping Cart
+2019-27-23 00:27:23.617 [main] INFO   - Checked Empty Shopping Cart
+2019-27-23 00:27:23.668 [main] INFO   - Switched To Parent Tab
+2019-27-23 00:27:23.668 [main] INFO   - Closed child tab
+2019-27-23 00:27:23.712 [main] INFO   - Got cookies
+2019-29-23 00:29:48.968 [main] INFO   - Opened site
+2019-29-23 00:29:51.125 [main] INFO   - Clicked Sgn In
+2019-29-23 00:29:54.040 [main] INFO   - Signed In on the site
+2019-29-23 00:29:54.270 [main] INFO   - Moved to menu Dresses
+2019-29-23 00:29:57.311 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-29-23 00:29:57.559 [main] INFO   - Opened and switched to new window
+2019-29-23 00:29:57.602 [main] INFO   - Switched to New Window
+2019-30-23 00:30:00.302 [main] INFO   - Selected Color
+2019-30-23 00:30:00.873 [main] INFO   - Selected Size
+2019-30-23 00:30:01.135 [main] INFO   - Clicked to button Add to Cart
+2019-30-23 00:30:02.806 [main] INFO   - Clicked to button Continue Shopping
+2019-30-23 00:30:02.934 [main] INFO   - Moved to Shopping Cart
+2019-30-23 00:30:03.718 [main] INFO   - Checked Product Attributes
+2019-30-23 00:30:04.103 [main] INFO   - Deleted Product From Shopping Cart
+2019-30-23 00:30:05.973 [main] INFO   - Checked Empty Shopping Cart
+2019-30-23 00:30:06.039 [main] INFO   - Switched To Parent Tab
+2019-30-23 00:30:06.041 [main] INFO   - Closed child tab
+2019-30-23 00:30:06.063 [main] INFO   - Got cookies
+2019-22-23 12:22:48.436 [main] INFO   - Opened site
+2019-22-23 12:22:52.037 [main] INFO   - Clicked Sgn In
+2019-22-23 12:22:54.406 [main] INFO   - Signed In on the site
+2019-22-23 12:22:54.629 [main] INFO   - Moved to menu Dresses
+2019-22-23 12:22:57.393 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-22-23 12:22:57.609 [main] INFO   - Opened and switched to new window
+2019-22-23 12:22:57.667 [main] INFO   - Switched to New Window
+2019-22-23 12:22:59.822 [main] INFO   - Selected Color
+2019-23-23 12:23:00.440 [main] INFO   - Selected Size
+2019-23-23 12:23:00.618 [main] INFO   - Clicked to button Add to Cart
+2019-23-23 12:23:01.857 [main] INFO   - Clicked to button Continue Shopping
+2019-23-23 12:23:01.946 [main] INFO   - Moved to Shopping Cart
+2019-23-23 12:23:02.573 [main] INFO   - Checked Product Attributes
+2019-23-23 12:23:02.703 [main] INFO   - Deleted Product From Shopping Cart
+2019-23-23 12:23:04.914 [main] INFO   - Checked Empty Shopping Cart
+2019-23-23 12:23:05.020 [main] INFO   - Switched To Parent Tab
+2019-23-23 12:23:05.021 [main] INFO   - Closed child tab
+2019-23-23 12:23:05.051 [main] INFO   - Got cookies
+2019-26-23 13:26:37.456 [main] INFO   - Opened site
+2019-26-23 13:26:39.484 [main] INFO   - Clicked Sgn In
+2019-26-23 13:26:41.630 [main] INFO   - Signed In on the site
+2019-26-23 13:26:41.734 [main] INFO   - Moved to menu Dresses
+2019-26-23 13:26:44.300 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-26-23 13:26:44.444 [main] INFO   - Opened and switched to new window
+2019-26-23 13:26:44.498 [main] INFO   - Switched to New Window
+2019-26-23 13:26:46.503 [main] INFO   - Selected Color
+2019-26-23 13:26:46.866 [main] INFO   - Selected Size
+2019-26-23 13:26:47.021 [main] INFO   - Clicked to button Add to Cart
+2019-26-23 13:26:48.242 [main] INFO   - Clicked to button Continue Shopping
+2019-26-23 13:26:48.331 [main] INFO   - Moved to Shopping Cart
+2019-26-23 13:26:48.930 [main] INFO   - Checked Product Attributes
+2019-26-23 13:26:49.076 [main] INFO   - Deleted Product From Shopping Cart
+2019-26-23 13:26:50.193 [main] INFO   - Checked Empty Shopping Cart
+2019-26-23 13:26:50.221 [main] INFO   - Switched To Parent Tab
+2019-26-23 13:26:50.222 [main] INFO   - Closed child tab
+2019-26-23 13:26:50.251 [main] INFO   - Got cookies
+2019-51-25 07:51:32.560 [main] INFO   - Opened site
+2019-51-25 07:51:35.601 [main] INFO   - Clicked Sgn In
+2019-51-25 07:51:39.439 [main] INFO   - Signed In on the site
+2019-51-25 07:51:39.685 [main] INFO   - Moved to menu Dresses
+2019-51-25 07:51:43.869 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-51-25 07:51:44.062 [main] INFO   - Opened and switched to new window
+2019-51-25 07:51:44.130 [main] INFO   - Switched to New Window
+2019-51-25 07:51:49.134 [main] INFO   - Selected Color
+2019-51-25 07:51:49.780 [main] INFO   - Selected Size
+2019-51-25 07:51:50.080 [main] INFO   - Clicked to button Add to Cart
+2019-51-25 07:51:53.704 [main] INFO   - Clicked to button Continue Shopping
+2019-51-25 07:51:53.825 [main] INFO   - Moved to Shopping Cart
+2019-51-25 07:51:54.462 [main] INFO   - Checked Product Attributes
+2019-51-25 07:51:54.606 [main] INFO   - Deleted Product From Shopping Cart
+2019-51-25 07:51:58.152 [main] INFO   - Checked Empty Shopping Cart
+2019-51-25 07:51:58.204 [main] INFO   - Switched To Parent Tab
+2019-51-25 07:51:58.205 [main] INFO   - Closed child tab
+2019-51-25 07:51:58.250 [main] INFO   - Got cookies
+2019-52-25 07:52:22.464 [main] INFO   - Opened site
+2019-52-25 07:52:25.113 [main] INFO   - Clicked Sgn In
+2019-52-25 07:52:28.674 [main] INFO   - Signed In on the site
+2019-52-25 07:52:28.852 [main] INFO   - Moved to menu Dresses
+2019-52-25 07:52:32.703 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-52-25 07:52:32.969 [main] INFO   - Opened and switched to new window
+2019-52-25 07:52:33.025 [main] INFO   - Switched to New Window
+2019-52-25 07:52:35.440 [main] INFO   - Selected Color
+2019-52-25 07:52:36.017 [main] INFO   - Selected Size
+2019-52-25 07:52:36.247 [main] INFO   - Clicked to button Add to Cart
+2019-52-25 07:52:39.335 [main] INFO   - Clicked to button Continue Shopping
+2019-52-25 07:52:39.504 [main] INFO   - Moved to Shopping Cart
+2019-52-25 07:52:40.268 [main] INFO   - Checked Product Attributes
+2019-52-25 07:52:40.548 [main] INFO   - Deleted Product From Shopping Cart
+2019-52-25 07:52:43.168 [main] INFO   - Checked Empty Shopping Cart
+2019-52-25 07:52:43.203 [main] INFO   - Switched To Parent Tab
+2019-52-25 07:52:43.204 [main] INFO   - Closed child tab
+2019-52-25 07:52:43.228 [main] INFO   - Got cookies
+2019-52-25 07:52:53.126 [main] INFO   - Opened site
+2019-52-25 07:52:55.700 [main] INFO   - Clicked Sign In
+2019-52-25 07:52:55.711 [main] INFO   - Got Title for page after Log In - Login Page
+2019-52-25 07:52:59.414 [main] INFO   - Signed In on the site
+2019-52-25 07:52:59.499 [main] INFO   - Checked Customer Name
+2019-53-25 07:53:02.247 [main] INFO   - Logged Out
+2019-53-25 07:53:02.257 [main] INFO   - Got Title from page after log out  Login Page
+2019-53-25 07:53:02.258 [main] INFO   - Checked that page after clickSignIn Link and after log out is the same
+2019-53-25 07:53:03.360 [main] INFO   - Closed site
+2019-53-25 07:53:10.096 [main] INFO   - Opened site
+2019-53-25 07:53:13.183 [main] INFO   - Clicked Sgn In
+2019-53-25 07:53:17.459 [main] INFO   - Signed In on the site
+2019-53-25 07:53:20.394 [main] INFO   - Clicked menu T-Shirts
+2019-53-25 07:53:23.091 [main] INFO   - Clicked to Product Container
+2019-53-25 07:53:23.180 [main] INFO   - Checked breadcrumb
+2019-53-25 07:53:23.408 [main] INFO   - Clicked to button Add to Cart
+2019-53-25 07:53:28.049 [main] INFO   - Clicked Proceed to Checkout
+2019-53-25 07:53:30.041 [main] INFO   - Increased Quantity
+2019-53-25 07:53:30.281 [main] INFO   - Checked amount price
+2019-53-25 07:53:30.475 [main] INFO   - Deleted Product
+2019-53-25 07:53:33.774 [main] INFO   - Checked that we have message: Your shopping cart is empty
+2019-53-25 07:53:42.574 [main] INFO   - Opened site
+2019-53-25 07:53:46.297 [main] INFO   - Clicked Sgn In
+2019-53-25 07:53:49.725 [main] INFO   - Signed In on the site
+2019-53-25 07:53:49.877 [main] INFO   - Moved to menu Dresses
+2019-53-25 07:53:53.805 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-53-25 07:53:54.037 [main] INFO   - Opened and switched to new window
+2019-53-25 07:53:54.073 [main] INFO   - Switched to New Window
+2019-53-25 07:53:57.888 [main] INFO   - Selected Color
+2019-53-25 07:53:58.365 [main] INFO   - Selected Size
+2019-53-25 07:53:58.567 [main] INFO   - Clicked to button Add to Cart
+2019-54-25 07:54:00.444 [main] INFO   - Clicked to button Continue Shopping
+2019-54-25 07:54:00.600 [main] INFO   - Moved to Shopping Cart
+2019-54-25 07:54:01.333 [main] INFO   - Checked Product Attributes
+2019-54-25 07:54:01.672 [main] INFO   - Deleted Product From Shopping Cart
+2019-54-25 07:54:03.467 [main] INFO   - Checked Empty Shopping Cart
+2019-54-25 07:54:03.529 [main] INFO   - Switched To Parent Tab
+2019-54-25 07:54:03.529 [main] INFO   - Closed child tab
+2019-54-25 07:54:03.551 [main] INFO   - Got cookies
+2019-01-25 08:01:39.649 [main] INFO   - Opened site
+2019-01-25 08:01:42.570 [main] INFO   - Clicked Sgn In
+2019-01-25 08:01:45.728 [main] INFO   - Signed In on the site
+2019-01-25 08:01:45.921 [main] INFO   - Moved to menu Dresses
+2019-01-25 08:01:48.812 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-01-25 08:01:49.121 [main] INFO   - Opened and switched to new window
+2019-01-25 08:01:49.182 [main] INFO   - Switched to New Window
+2019-01-25 08:01:51.508 [main] INFO   - Selected Color
+2019-01-25 08:01:52.080 [main] INFO   - Selected Size
+2019-01-25 08:01:52.344 [main] INFO   - Clicked to button Add to Cart
+2019-01-25 08:01:53.913 [main] INFO   - Clicked to button Continue Shopping
+2019-01-25 08:01:54.079 [main] INFO   - Moved to Shopping Cart
+2019-01-25 08:01:55.876 [main] ERROR  - expected:<[]> but was:<[Pink, M]>

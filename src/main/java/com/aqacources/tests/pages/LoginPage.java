@@ -48,4 +48,5 @@ public class LoginPage extends AbstractPage {
         submitButton.click();
         return new MyAccountPage(testClass);
     }
+
 }

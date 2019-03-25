@@ -4,6 +4,7 @@ import com.aqacources.tests.base.BaseTest;
 import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Cookie;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
@@ -18,11 +19,12 @@ public class AbstractPage {
 
     String currentPageURL;
 
-    private String oldWindow;
-
     private String MENU_IITEM = "//ul[@class='sf-menu clearfix menu-content sf-js-enabled sf-arrows']/li/a[@title='%s']";
 
     private String MENU_SUBCATEGORY = "//li/a[@title='%s']";
+
+    private String PRODUCT_DETAILS =
+            "//div[@class='product-container']/div[@class='right-block']/h5[@itemprop='name']/a[@title='%s']";
 
     // Web Elements
     @FindBy(xpath = "//a[@class='login']")
@@ -54,6 +56,12 @@ public class AbstractPage {
 
     @FindBy(xpath = "//ul[@class='sf-menu clearfix menu-content sf-js-enabled sf-arrows']/li/a[@title='%s']/li[@class='sfHover']")
     private WebElement menuHover;
+
+    @FindBy(xpath = "//a[@title='View my shopping cart']")
+    private WebElement shoppingCart;
+
+    @FindBy(xpath = "//a[@class='ajax_cart_block_remove_link']")
+    private WebElement removeProduct;
 
     // Instances of BaseTest
     protected BaseTest testClass;
@@ -166,12 +174,27 @@ public class AbstractPage {
     }
 
     /**
+     * Open page in newtab
+     *
+     * @param productName
+     * @return ProductPage
+     */
+    public ProductPage openInNewTab(String productName) {
+        testClass.waitTillElementIsVisible(
+                testClass.getDriver().findElement(By.xpath(String.format(PRODUCT_DETAILS, productName))));
+
+
+        testClass.getDriver().findElement(By.xpath(String.format(PRODUCT_DETAILS, productName))).sendKeys(Keys.chord(Keys.CONTROL, Keys.RETURN));
+
+        return new ProductPage(testClass);
+    }
+
+    /**
      * Switch to New Window
      */
-    public void switchToNewWindow() {
-        String actualWindow = testClass.getDriver().getWindowHandle();
+    public void switchToWindow() {
 
-        this.oldWindow = actualWindow;
+        String actualWindow = testClass.getDriver().getWindowHandle();
 
         Set <String> windows = testClass.getDriver().getWindowHandles();
 
@@ -183,23 +206,14 @@ public class AbstractPage {
             }
         }
         testClass.getDriver().switchTo().window(newWindow);
-
     }
 
     /**
      * Close Window
      */
     public void closeWindow() {
-        testClass.getDriver().close();
-    }
 
-    /**
-     * Switch to Parent Window
-     */
-    public void switchToParentWindow() {
-        testClass.getDriver().switchTo().window(this.oldWindow);
     }
-
 
     /**
      * Get Cookie and print in console
@@ -208,7 +222,34 @@ public class AbstractPage {
 
         Set <Cookie> cookies = testClass.getDriver().manage().getCookies();
 
-        System.out.println("Cookies from page:\n" + cookies);
+        for (Cookie cookie : cookies) {
+
+            System.out.println("Cookies from page:\n" + cookie.getName());
+        }
     }
+
+    /**
+     * Move to Shopping Cart
+     */
+    public void moveToShoppingCart() {
+        testClass.waitTillElementIsVisible(shoppingCart);
+
+        Actions actions = new Actions(testClass.getDriver());
+
+        // Move to element
+        actions.moveToElement(shoppingCart).build().perform();
+
+    }
+
+
+    /**
+     * Delete Product From Shopping Cart
+     */
+    public void deleteProductFromShoppingCart() {
+        testClass.waitTillElementIsVisible(removeProduct);
+
+        removeProduct.click();
+    }
+
 
 }

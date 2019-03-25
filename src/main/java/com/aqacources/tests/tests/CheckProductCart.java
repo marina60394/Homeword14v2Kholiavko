@@ -19,6 +19,7 @@ public class CheckProductCart extends BaseTest {
 
     private String SIZE = "M";
 
+
     @Test
     public void checkProductCart() {
         // Initialize Home Page
@@ -41,13 +42,12 @@ public class CheckProductCart extends BaseTest {
         ProductListPage productListPage = myAccountPage.clickToSubCategory(MENU_SUBCATEGORY);
         log("Clicked to subcategory Evening Dresses");
 
-        // Click to product
-        ProductPage productPage = productListPage.openInNewTabProduct(PRODUCT_NAME);
-        log("Clicked to product");
+        // Open and switch to new window
+        ProductPage productPage = productListPage.openInNewTab(PRODUCT_NAME);
+        log("Opened and switched to new window");
 
-        // Switch to new tab
-        productPage.switchToNewWindow();
-        log("Switched to new window");
+        productPage.switchToWindow();
+        log("Switched to New Window");
 
         // Select color Pink
         productPage.selectColor(COLOR);
@@ -81,17 +81,17 @@ public class CheckProductCart extends BaseTest {
         productPage.checkEmptyShoppingCart();
         log("Checked Empty Shopping Cart");
 
-        // Close Window
-        productPage.closeWindow();
-        log("Closed Window");
-
         // Switch to Parent Tab
-        productPage.switchToParentWindow();
+        productPage.switchToWindow();
         log("Switched To Parent Tab");
+
+        // Close child tab
+        productPage.closeWindow();
+        log("Closed child tab");
 
         // Get cookies
         productPage.getCookies();
         log("Got cookies");
-
     }
+
 }

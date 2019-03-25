@@ -42,9 +42,9 @@ public class YamlFile {
     }
 
     /**
-     * Get test from yaml file
+     * Get openInNewTab from yaml file
      *
-     * @return Map represents test
+     * @return Map represents openInNewTab
      */
     public Map <String, String> getTest() {
         return test;
