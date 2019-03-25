@@ -209,10 +209,25 @@ public class AbstractPage {
     }
 
     /**
-     * Close Window
+     * Close child tab and switch to Parent Window
      */
-    public void closeWindow() {
+    public void closedChildTabAndSwitchToParentWindow() {
 
+        String actualWindow = testClass.getDriver().getWindowHandle();
+
+        Set <String> windows = testClass.getDriver().getWindowHandles();
+
+        String newWindow = null;
+
+        for (String window : windows) {
+            if (!window.equals(actualWindow)) {
+                newWindow = window;
+            }
+        }
+
+        testClass.getDriver().close();
+
+        testClass.getDriver().switchTo().window(newWindow);
     }
 
     /**

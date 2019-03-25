@@ -82,17 +82,14 @@ public class CheckProductCart extends BaseTest {
         productPage.checkEmptyShoppingCart();
         log("Checked Empty Shopping Cart");
 
-        // Switch to Parent Tab
-        productPage.switchToWindow();
-        log("Switched To Parent Tab");
-
-        // Close child tab
-        productPage.closeWindow();
-        log("Closed child tab");
+        // Close child tab and switch to parent
+        productPage.closedChildTabAndSwitchToParentWindow();
+        log("Closed child tab and switched To Parent Tab");
 
         // Get cookies
         productPage.getCookies();
         log("Got cookies");
+
     }
 
 }
