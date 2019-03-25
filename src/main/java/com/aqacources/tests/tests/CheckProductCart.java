@@ -42,10 +42,11 @@ public class CheckProductCart extends BaseTest {
         ProductListPage productListPage = myAccountPage.clickToSubCategory(MENU_SUBCATEGORY);
         log("Clicked to subcategory Evening Dresses");
 
-        // Open and switch to new window
+        // Open in new window
         ProductPage productPage = productListPage.openInNewTab(PRODUCT_NAME);
-        log("Opened and switched to new window");
+        log("Opened to New window");
 
+        // Switch to new window
         productPage.switchToWindow();
         log("Switched to New Window");
 
