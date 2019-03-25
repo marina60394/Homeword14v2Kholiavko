@@ -29,7 +29,7 @@ public class RunTestRule extends TestWatcher {
     /**
      * Make driver.quit()
      * <p>
-     * <p>Overriding this method you can add some action when openInNewTab is starting
+     * <p>Overriding this method you can add some action when test is starting
      *
      * @param description
      */
@@ -39,7 +39,7 @@ public class RunTestRule extends TestWatcher {
     }
 
     /**
-     * Make screenshot and make driver.quit() Overriding this method you can add some actions on openInNewTab
+     * Make screenshot and make driver.quit() Overriding this method you can add some actions on test
      * failing
      *
      * @param e
@@ -56,7 +56,7 @@ public class RunTestRule extends TestWatcher {
             directory.mkdir();
         }
 
-        // Get openInNewTab class name and method name
+        // Get test class name and method name
         String className = description.getTestClass().getSimpleName();
         String methodName = description.getMethodName();
 
