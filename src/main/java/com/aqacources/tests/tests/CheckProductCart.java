@@ -42,13 +42,9 @@ public class CheckProductCart extends BaseTest {
         ProductListPage productListPage = myAccountPage.clickToSubCategory(MENU_SUBCATEGORY);
         log("Clicked to subcategory Evening Dresses");
 
-        // Open in new window
-        ProductPage productPage = productListPage.openInNewTab(PRODUCT_NAME);
-        log("Opened to New window");
-
-        // Switch to new window
-        productPage.switchToWindow();
-        log("Switched to New Window");
+        // Open in new window and switch to window
+        ProductPage productPage = productListPage.openInNewTabAndSwitchToWindow(PRODUCT_NAME);
+        log("Opened and Switched to New window");
 
         // Select color Pink
         productPage.selectColor(COLOR);

@@ -173,26 +173,20 @@ public class AbstractPage {
         return new ProductListPage(testClass);
     }
 
+
     /**
-     * Open page in newtab
+     * Open in new tab and switch to tab
      *
      * @param productName
-     * @return ProductPage
+     * @return
      */
-    public ProductPage openInNewTab(String productName) {
+    public ProductPage openInNewTabAndSwitchToWindow(String productName) {
+
         testClass.waitTillElementIsVisible(
                 testClass.getDriver().findElement(By.xpath(String.format(PRODUCT_DETAILS, productName))));
 
 
         testClass.getDriver().findElement(By.xpath(String.format(PRODUCT_DETAILS, productName))).sendKeys(Keys.chord(Keys.CONTROL, Keys.RETURN));
-
-        return new ProductPage(testClass);
-    }
-
-    /**
-     * Switch to New Window
-     */
-    public void switchToWindow() {
 
         String actualWindow = testClass.getDriver().getWindowHandle();
 
@@ -206,6 +200,8 @@ public class AbstractPage {
             }
         }
         testClass.getDriver().switchTo().window(newWindow);
+
+        return new ProductPage(testClass);
     }
 
     /**

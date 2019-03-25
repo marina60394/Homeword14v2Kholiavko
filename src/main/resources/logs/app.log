@@ -1769,3 +1769,69 @@ Session ID: a4924c802af18e299b47d92e12977199
 2019-25-25 08:25:34.944 [main] INFO   - Checked Empty Shopping Cart
 2019-25-25 08:25:35.011 [main] INFO   - Closed child tab and switched To Parent Tab
 2019-25-25 08:25:35.029 [main] INFO   - Got cookies
+2019-26-25 08:26:34.187 [main] INFO   - Opened site
+2019-26-25 08:26:36.928 [main] INFO   - Clicked Sgn In
+2019-26-25 08:26:39.733 [main] INFO   - Signed In on the site
+2019-26-25 08:26:39.862 [main] INFO   - Moved to menu Dresses
+2019-26-25 08:26:42.817 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-26-25 08:26:43.067 [main] INFO   - Opened to New window
+2019-26-25 08:26:43.118 [main] INFO   - Switched to New Window
+2019-26-25 08:26:45.750 [main] INFO   - Selected Color
+2019-26-25 08:26:46.344 [main] INFO   - Selected Size
+2019-26-25 08:26:46.626 [main] INFO   - Clicked to button Add to Cart
+2019-26-25 08:26:48.017 [main] INFO   - Clicked to button Continue Shopping
+2019-26-25 08:26:48.194 [main] INFO   - Moved to Shopping Cart
+2019-26-25 08:26:48.992 [main] INFO   - Checked Product Attributes
+2019-26-25 08:26:49.226 [main] INFO   - Deleted Product From Shopping Cart
+2019-26-25 08:26:50.472 [main] INFO   - Checked Empty Shopping Cart
+2019-26-25 08:26:50.532 [main] INFO   - Closed child tab and switched To Parent Tab
+2019-26-25 08:26:50.591 [main] INFO   - Got cookies
+2019-29-25 08:29:02.152 [main] INFO   - Opened site
+2019-29-25 08:29:04.454 [main] INFO   - Clicked Sgn In
+2019-29-25 08:29:07.747 [main] INFO   - Signed In on the site
+2019-29-25 08:29:07.925 [main] INFO   - Moved to menu Dresses
+2019-29-25 08:29:11.573 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-29-25 08:29:11.764 [main] INFO   - Opened to New window
+2019-29-25 08:29:11.819 [main] INFO   - Switched to New Window
+2019-29-25 08:29:14.233 [main] INFO   - Selected Color
+2019-29-25 08:29:14.833 [main] INFO   - Selected Size
+2019-29-25 08:29:15.029 [main] INFO   - Clicked to button Add to Cart
+2019-29-25 08:29:17.723 [main] INFO   - Clicked to button Continue Shopping
+2019-29-25 08:29:17.902 [main] INFO   - Moved to Shopping Cart
+2019-29-25 08:29:18.759 [main] INFO   - Checked Product Attributes
+2019-29-25 08:29:19.052 [main] INFO   - Deleted Product From Shopping Cart
+2019-29-25 08:29:20.393 [main] INFO   - Checked Empty Shopping Cart
+2019-29-25 08:29:20.540 [main] INFO   - Closed child tab and switched To Parent Tab
+2019-29-25 08:29:20.559 [main] INFO   - Got cookies
+2019-32-25 08:32:15.959 [main] INFO   - Opened site
+2019-32-25 08:32:18.336 [main] INFO   - Clicked Sgn In
+2019-32-25 08:32:23.003 [main] INFO   - Signed In on the site
+2019-32-25 08:32:23.176 [main] INFO   - Moved to menu Dresses
+2019-32-25 08:32:26.223 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-32-25 08:32:29.038 [main] INFO   - Opened and Switched to New window
+2019-32-25 08:32:29.267 [main] INFO   - Selected Color
+2019-32-25 08:32:29.966 [main] INFO   - Selected Size
+2019-32-25 08:32:30.261 [main] INFO   - Clicked to button Add to Cart
+2019-32-25 08:32:31.718 [main] INFO   - Clicked to button Continue Shopping
+2019-32-25 08:32:31.882 [main] INFO   - Moved to Shopping Cart
+2019-32-25 08:32:32.701 [main] INFO   - Checked Product Attributes
+2019-32-25 08:32:33.059 [main] INFO   - Deleted Product From Shopping Cart
+2019-32-25 08:32:34.372 [main] INFO   - Checked Empty Shopping Cart
+2019-32-25 08:32:34.434 [main] INFO   - Closed child tab and switched To Parent Tab
+2019-32-25 08:32:34.451 [main] INFO   - Got cookies
+2019-33-25 08:33:26.507 [main] INFO   - Opened site
+2019-33-25 08:33:29.327 [main] INFO   - Clicked Sgn In
+2019-33-25 08:33:32.410 [main] INFO   - Signed In on the site
+2019-33-25 08:33:32.571 [main] INFO   - Moved to menu Dresses
+2019-33-25 08:33:35.876 [main] INFO   - Clicked to subcategory Evening Dresses
+2019-33-25 08:33:39.052 [main] INFO   - Opened and Switched to New window
+2019-33-25 08:33:39.284 [main] INFO   - Selected Color
+2019-33-25 08:33:39.882 [main] INFO   - Selected Size
+2019-33-25 08:33:40.050 [main] INFO   - Clicked to button Add to Cart
+2019-33-25 08:33:42.618 [main] INFO   - Clicked to button Continue Shopping
+2019-33-25 08:33:42.760 [main] INFO   - Moved to Shopping Cart
+2019-33-25 08:33:43.402 [main] INFO   - Checked Product Attributes
+2019-33-25 08:33:43.586 [main] INFO   - Deleted Product From Shopping Cart
+2019-33-25 08:33:46.042 [main] INFO   - Checked Empty Shopping Cart
+2019-33-25 08:33:46.118 [main] INFO   - Closed child tab and switched To Parent Tab
+2019-33-25 08:33:46.136 [main] INFO   - Got cookies
